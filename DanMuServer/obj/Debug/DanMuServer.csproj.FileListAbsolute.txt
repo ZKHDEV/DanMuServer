@@ -1,0 +1,10 @@
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\bin\Debug\DanMuServer.exe.config
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\obj\Debug\DanMuServer.csprojResolveAssemblyReference.cache
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\bin\Debug\DanMuServer.exe
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\bin\Debug\DanMuServer.pdb
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\obj\Debug\DanMuServer.exe
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\obj\Debug\DanMuServer.pdb
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\bin\Debug\DanMuServer.exe.manifest
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\bin\Debug\DanMuServer.application
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\obj\Debug\DanMuServer.exe.manifest
+D:\ZKH\DEV\Visual Studio\Projects\DanMuServer\DanMuServer\obj\Debug\DanMuServer.application
